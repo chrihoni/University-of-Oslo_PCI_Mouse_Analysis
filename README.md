@@ -12,6 +12,6 @@ For recordings, we connected EEG electrodes and a 32 channel silicone probe cons
 
 ### ----Preprocessing of EEG, LFP data----
 
-EEG data: 
+EEG data: [title]
 
 

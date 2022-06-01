@@ -13,5 +13,6 @@ For recordings, we connected EEG electrodes and a 32 channel silicone probe cons
 ### ----Preprocessing of EEG, LFP data----
 
 EEG data: [1_Preprocessing_EEG](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/1_Preprocessing_EEG.ipynb)
+EEG data are 
 
 

@@ -16,6 +16,6 @@ EEG data: The notebook [1_Preprocessing_EEG](https://github.com/chrihoni/Univers
 
 LFP data: The notebook [2_Preprocessing_LFP](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/2_Preprocessing_LFP.ipynb) contains functions for preprocessing of LFP data, including pairwise referencing between electrodes at the same cortical depth, removal of the stimulation artefact, bandpass filtering (0.5 to 80 Hz), downsampling (from 20-25kHz to 500 Hz), offset removal, and trial rejection of artefacts. 
 
-### ----Power and phase of ERPs----
+### ----Power and phase of EEG and LFP----
 
-The 
+The notebook [3_fig2_plot_erp_traces_vstack]() plots EEG and LFP example traces on top of each other (Figure 2).   

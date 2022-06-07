@@ -18,4 +18,4 @@ LFP data: The notebook [2_Preprocessing_LFP](https://github.com/chrihoni/Univers
 
 ### ----Power and phase of EEG and LFP----
 
-The notebook [3_fig2_plot_erp_traces_vstack]() plots EEG and LFP example traces on top of each other (Figure 2).   
+The notebook [3_fig2_plot_erp_traces]() plots EEG and LFP example traces on top of each other (Figure 2).   

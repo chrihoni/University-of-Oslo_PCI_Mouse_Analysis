@@ -21,4 +21,6 @@ LFP data: The notebook [2_Preprocessing_LFP](https://github.com/chrihoni/Univers
 
 ### ----Power and phase of EEG and LFP----
 
-The notebook [3_fig2_plot_erp_traces](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/3_fig2_plot_erp_traces.ipynb) plots EEG and LFP example traces on top of each other (Figure 2).   
+The notebook [3_fig2_plot_erp_traces](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/3_fig2_plot_erp_traces.ipynb) plots EEG and LFP example traces on top of each other (Figure 2).  
+
+The notebook [4_fig2_eeg_lfp_power_phase_locking_heatmaps](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/4_fig2_eeg_lfp_power_phase_locking_heatmaps.ipynb) extracts power and phase of preprocessed EEG data (returned by 1_Preprocessing_EEG) using Wavelet convolution. The returned function values are saved to a pandas dataframe for further analysis (repeated for each mouse). The ERP, power and itpc phase-locking values are plotted for each frequency and channel (left plot, top-bottom) and for a certain frequency band across channels (right plot, top-bottom). The latter (right side) plot is shown in Fig. 2.

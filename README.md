@@ -1,6 +1,7 @@
 
 
-# This repository contains the scripts for analysis of neurophysiological data related to the measurement of the perturbational complexity index in rodents (the repository is continously updated and remaining scripts will be added soon).
+# Overview 
+This repository contains the scripts for analysis of neurophysiological data related to the measurement of the perturbational complexity index in rodents (the repository is continously updated and remaining scripts will be added soon).
 
 Analysis pipeline -The diagram lists the workflow used for analysis and visualisation of the manuscript figures.
 

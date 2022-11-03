@@ -28,4 +28,4 @@ The notebook [4_fig2_eeg_lfp_power_phase_locking_heatmaps](https://github.com/ch
 
 The notebook [5_fig2_itpc_eeg_lfp_layer_summary](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/5_fig2_itpc_eeg_lfp_layer_summary.ipynb) plots itpc drop time of eeg and lfp data (phase-locking values saved to pandas dataframe returned by notebook 4) and performs hypothesis tests . 
 
-The notebook [6_fig3_pci_eeg_lfp](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/6_fig3_pci.ipynb) plots the timecourse of Pci_st values derived from EEG and LFP data and performs hypothesis tests.
+The notebook [6_fig3_pci_eeg_lfp](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/6_fig3_pci.ipynb) calculates the timecourse of Pci_st values derived from EEG and LFP data and appends the results to a dataframe.

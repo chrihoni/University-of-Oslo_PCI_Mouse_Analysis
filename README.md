@@ -30,4 +30,4 @@ The notebook [5_fig2_itpc_eeg_lfp_layer_summary](https://github.com/chrihoni/Uni
 
 The notebook [6_fig3_pci_eeg_lfp](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/6_fig3_pci.ipynb) calculates the timecourse of Pci_st values derived from EEG and LFP data and appends the results to a dataframe.
 
-The notebook [7_fig3_plot_pci_summary]() plots the timecourse of PCIst values derived from EEG and LFP data and performs hypothesis tests,
+The notebook [7_fig3_plot_pci_summary](https://github.com/chrihoni/University-of-Oslo_PCI_Mouse_Analysis/blob/main/7_fig3_plot_pci_summary.ipynb) plots the timecourse of PCIst values derived from EEG and LFP data and performs hypothesis tests,
